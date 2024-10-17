@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Riajul! 👋
 
-<!--
-**rjriajul/rjriajul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a beginner developer passionate about learning coding and building projects. This profile showcases my journey as I explore different programming languages and technologies, particularly React.js.
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 I’m currently learning **JavaScript** and **React.js**.
+- 🌍 I’m interested in **web development** and creating dynamic user interfaces.
+- 💬 I’m eager to connect and collaborate with other learners and developers.
+- 📫 How to reach me: **[]**
+
+## 🔧 Technologies I'm Learning
+
+- **Languages:** 
+  - JavaScript
+  - HTML
+  - CSS
+- **Frameworks/Libraries:** 
+  - React.js
+- **Tools:** 
+  - Git
+  - Visual Studio Code
+  - npm (Node Package Manager)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjriajul&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+<!-- ## 📂 Projects
+
+### [Project Name 1](link-to-your-project)
+- A brief description of your project, what you learned, and the technologies used.
+
+### [Project Name 2](link-to-your-project)
+- A brief description of your project, what you learned, and the technologies used.
+
+### [Project Name 3](link-to-your-project)
+- A brief description of your project, what you learned, and the technologies used.
 -->
+## 🤝 Learning & Collaboration
+
+I welcome feedback, suggestions, and collaboration on projects. Feel free to reach out if you have any advice or would like to work together!
+
+## 💬 Connect with Me
+
+- [LinkedIn](https://bd.linkedin.com/in/riajulrj)
+- [Twitter](https://x.com/r_i_a_j_u_l)
+- [Personal Website](https://rjriajul.github.io/)
+
+
