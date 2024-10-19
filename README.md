@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a beginner developer passionate about learning
 - 🎓 I’m currently learning **JavaScript** and **React.js**.
 - 🌍 I’m interested in **web development** and creating dynamic user interfaces.
 - 💬 I’m eager to connect and collaborate with other learners and developers.
-- 📫 How to reach me: **[]**
+- 📫 How to reach me: **[Empty🙂]**
 
 ## 🔧 Technologies I'm Learning
 
@@ -41,10 +41,11 @@ Welcome to my GitHub profile! I'm a beginner developer passionate about learning
 
 I welcome feedback, suggestions, and collaboration on projects. Feel free to reach out if you have any advice or would like to work together!
 
-## 💬 Connect with Me
+<!--## 💬 Connect with Me
 
 - [LinkedIn](https://bd.linkedin.com/in/riajulrj)
 - [Twitter](https://x.com/r_i_a_j_u_l)
 - [Personal Website](https://rjriajul.github.io/)
+-->
 
 
