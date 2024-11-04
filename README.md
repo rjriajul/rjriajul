@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a beginner developer passionate about learning
 
 ## 📈 GitHub Stats
 
-<center> ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjriajul&show_icons=true&hide_title=true&count_private=true&theme=radical) </center>
+ ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjriajul&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 <!-- ## 📂 Projects
 
