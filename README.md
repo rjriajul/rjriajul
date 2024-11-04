@@ -33,6 +33,6 @@ I welcome feedback, suggestions, and collaboration on projects. Feel free to rea
 -->
 
 
-*Latest update on my blog:*
+##*Latest update on my blog:*
   
 - [Hello World!](https://rj1.pages.dev/blog/hello-world) 
