@@ -9,10 +9,11 @@ Welcome to my GitHub profile! I'm a beginner developer passionate about learning
 - 💬 I’m eager to connect and collaborate with other learners and developers.
 - 📫 How to reach me: **rj@rj1.xyz**
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjriajul&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
+-->
 <!-- ## 📂 Projects
 
 ### [Project Name 1](link-to-your-project)
@@ -35,4 +36,4 @@ I welcome feedback, suggestions, and collaboration on projects. Feel free to rea
 
 ## *Latest update on my blog:*
   
-- [Hello World!](https://rj1.pages.dev/blog/hello-world) 
+- [Hello World!](https://rj1.xyz/blog/hello-world) 
