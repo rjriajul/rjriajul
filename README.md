@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a beginner developer passionate about learning
 
 ## 🌱 About Me
 
-- 🎓 I’m currently learning **JavaScript** and **React.js**.
+- 🎓 I’m currently learning **React.js**.
 - 🌍 I’m interested in **web development** and creating dynamic user interfaces.
 - 💬 I’m eager to connect and collaborate with other learners and developers.
 - 📫 How to reach me: **rj@rj1.xyz**
