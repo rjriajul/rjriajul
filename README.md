@@ -29,9 +29,9 @@ Welcome to my GitHub profile! I'm a beginner developer passionate about learning
 
 I welcome feedback, suggestions, and collaboration on projects. Feel free to reach out if you have any advice or would like to work together!
 
-## 💬 Connect with Me
+<!--## 💬 Connect with Me
 - [Personal Website](https://rj1.xyz/)
-
+-->
 
 ## *Latest update on my blog:*
   
