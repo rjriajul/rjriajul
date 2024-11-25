@@ -1,4 +1,4 @@
-# Hi there, I'm Riajul! 👋
+# Assalamualaikum, I'm Riajul! 👋
 
 Welcome to my GitHub profile! I'm a beginner developer passionate about learning coding and building projects. This profile showcases my journey as I explore different programming languages and technologies, particularly React.js.
 
