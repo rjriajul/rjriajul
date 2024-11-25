@@ -35,4 +35,9 @@ I welcome feedback, suggestions, and collaboration on projects. Feel free to rea
 
 ## *Latest update on my blog:*
   
-- [Hello World!](https://rj1.xyz/blog/hello-world) 
+- [Hello World!](https://rj1.xyz/blog/hello-world)
+
+
+<hr>
+<img src = "https://github-widgetbox.vercel.app/api/profile?username=rjriajul&data=followers,stars,commits&theme=radical">
+<hr>
