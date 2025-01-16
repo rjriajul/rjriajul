@@ -1,16 +1,43 @@
-## Hi there 👋
+# Assalamualaikum, I'm Riajul! 👋
 
-<!--
-**rjriajul/rjriajul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a beginner developer passionate about learning and building exciting projects. This profile is a reflection of my journey as I explore different technologies and expand my skills.
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 I’m Currently exploring web development to create dynamic, user-friendly experiences.
+- 🌍 I’m Interested in building creative and impactful projects.
+- 💬 I’m eager to connect and collaborate with other learners and developers.
+- 📫 How to reach me: **rj@rj1.xyz**
+
+<!--## 📈 GitHub Stats
+
+ ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjriajul&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
 -->
+<!-- ## 📂 Projects
+
+### [Project Name 1](link-to-your-project)
+- A brief description of your project, what you learned, and the technologies used.
+
+### [Project Name 2](link-to-your-project)
+- A brief description of your project, what you learned, and the technologies used.
+
+### [Project Name 3](link-to-your-project)
+- A brief description of your project, what you learned, and the technologies used.
+-->
+## 🤝 Learning & Collaboration
+
+I welcome feedback, suggestions, and collaboration on projects. Feel free to reach out if you have any advice or would like to work together!
+
+<!--## 💬 Connect with Me
+- [Personal Website](https://rj1.xyz/)
+-->
+
+## *Latest update on my blog:*
+  
+- [Hello World!](https://rj1.xyz/blog/hello-world)
+
+
+<hr>
+<img src = "https://github-widgetbox.vercel.app/api/profile?username=rjriajul&data=followers,stars,commits&theme=radical">
+<hr>
