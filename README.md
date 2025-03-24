@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a beginner developer passionate about learning
 - 🎓 I’m Currently exploring web development to create dynamic, user-friendly experiences.
 - 🌍 I’m Interested in building creative and impactful projects.
 - 💬 I’m eager to connect and collaborate with other learners and developers.
-- 📫 How to reach me: **rj@rj1.xyz**
+- 📫 How to reach me: **rj@rj1.dev**
 
 <!--## 📈 GitHub Stats
 
@@ -30,12 +30,12 @@ Welcome to my GitHub profile! I'm a beginner developer passionate about learning
 I welcome feedback, suggestions, and collaboration on projects. Feel free to reach out if you have any advice or would like to work together!
 
 <!--## 💬 Connect with Me
-- [Personal Website](https://rj1.xyz/)
+- [Personal Website](https://rj1.dev/)
 -->
 
 ## *Latest update on my blog:*
   
-- [Hello World!](https://rj1.xyz/blog/hello-world)
+- [Hello World!](https://rj1.dev/blog/hello-world)
 
 
 <hr>
