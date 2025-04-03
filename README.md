@@ -14,17 +14,6 @@ Welcome to my GitHub profile! I'm a beginner developer passionate about learning
  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjriajul&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 -->
-<!-- ## 📂 Projects
-
-### [Project Name 1](link-to-your-project)
-- A brief description of your project, what you learned, and the technologies used.
-
-### [Project Name 2](link-to-your-project)
-- A brief description of your project, what you learned, and the technologies used.
-
-### [Project Name 3](link-to-your-project)
-- A brief description of your project, what you learned, and the technologies used.
--->
 ## 🤝 Learning & Collaboration
 
 I welcome feedback, suggestions, and collaboration on projects. Feel free to reach out if you have any advice or would like to work together!
@@ -37,6 +26,17 @@ I welcome feedback, suggestions, and collaboration on projects. Feel free to rea
   
 - [Hello World!](https://rj1.dev/blog/hello-world)
 
+## 📂 Projects
+
+- [ImgNest](https://img.rj1.dev/)
+  - ImgNest: A sleek, blazing-fast, and secure image hosting platform designed for simplicity and style.
+
+<!-- ### [Project Name 2](link-to-your-project)
+- A brief description of your project, what you learned, and the technologies used.
+
+### [Project Name 3](link-to-your-project)
+- A brief description of your project, what you learned, and the technologies used.
+-->
 
 <hr>
 <img src = "https://github-widgetbox.vercel.app/api/profile?username=rjriajul&data=followers,stars,commits&theme=radical">
