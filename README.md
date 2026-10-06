@@ -6,16 +6,10 @@ I build fast Telegram tooling in Python and Rust. Right now I'm working on [wzgr
 
 ## What I'm building
 
-<table>
-  <tr>
-    <td><a href="https://github.com/rjriajul/wzgram"><img src="./assets/wzgram.svg" alt="wzgram" /></a><br/><img src="https://img.shields.io/github/stars/rjriajul/wzgram?style=flat-square&color=161B22&labelColor=161B22&logo=github" alt="stars" /> <img src="https://img.shields.io/pypi/v/wzgram?style=flat-square&color=161B22&labelColor=161B22&logo=pypi&logoColor=58A6FF" alt="pypi" /></td>
-    <td><a href="https://github.com/rjriajul/WarpCrypto"><img src="./assets/warpcrypto.svg" alt="WarpCrypto" /></a><br/><img src="https://img.shields.io/github/stars/rjriajul/WarpCrypto?style=flat-square&color=161B22&labelColor=161B22&logo=github" alt="stars" /> <img src="https://img.shields.io/pypi/v/warpcrypto?style=flat-square&color=161B22&labelColor=161B22&logo=pypi&logoColor=58A6FF" alt="pypi" /></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rjriajul/imdbio"><img src="./assets/imdbio.svg" alt="imdbio" /></a><br/><img src="https://img.shields.io/github/stars/rjriajul/imdbio?style=flat-square&color=161B22&labelColor=161B22&logo=github" alt="stars" /> <img src="https://img.shields.io/pypi/v/imdbio?style=flat-square&color=161B22&labelColor=161B22&logo=pypi&logoColor=58A6FF" alt="pypi" /></td>
-    <td><a href="https://github.com/SilentDemonSD/WZML-X"><img src="./assets/wzml-x.svg" alt="WZML-X" /></a><br/><img src="https://img.shields.io/github/stars/SilentDemonSD/WZML-X?style=flat-square&color=161B22&labelColor=161B22&logo=github" alt="stars" /> <a href="https://wzmlx.com"><img src="https://img.shields.io/badge/docs-wzmlx.com-161B22?style=flat-square&labelColor=161B22" alt="docs" /></a></td>
-  </tr>
-</table>
+- **[wzgram](https://github.com/rjriajul/wzgram)** · My Pyrogram fork. Telegram MTProto for users and bots. <img src="https://img.shields.io/github/stars/rjriajul/wzgram?style=flat-square&label=&logo=github&color=161B22&labelColor=161B22" alt="stars" align="absmiddle" />
+- **[WarpCrypto](https://github.com/rjriajul/WarpCrypto)** · TgCrypto rewritten in Rust. wzgram runs on it. <img src="https://img.shields.io/github/stars/rjriajul/WarpCrypto?style=flat-square&label=&logo=github&color=161B22&labelColor=161B22" alt="stars" align="absmiddle" />
+- **[imdbio](https://github.com/rjriajul/imdbio)** · IMDb data from Python. <img src="https://img.shields.io/github/stars/rjriajul/imdbio?style=flat-square&label=&logo=github&color=161B22&labelColor=161B22" alt="stars" align="absmiddle" />
+- **[WZML-X](https://github.com/SilentDemonSD/WZML-X)** · I help out on this Telegram mirror/leech bot. <img src="https://img.shields.io/github/stars/SilentDemonSD/WZML-X?style=flat-square&label=&logo=github&color=161B22&labelColor=161B22" alt="stars" align="absmiddle" />
 
 ## Tools
 
