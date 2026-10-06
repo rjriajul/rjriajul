@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="150" viewBox="0 0 400 150" role="img" aria-label="wzgram: My Pyrogram fork. Telegram MTProto for users and bots.">
+  <style>
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .n { font-size: 20px; font-weight: 700; fill: #58A6FF; }
+    .t { font-size: 14px; fill: #c9d1d9; }
+    .m { font-size: 12px; fill: #8b949e; }
+    .c { font-family: ui-monospace, Consolas, monospace; font-size: 12px; fill: #8b949e; }
+  </style>
+  <rect x="0.5" y="0.5" width="399" height="149" rx="8" fill="#161b22" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="4" height="149" rx="2" fill="#58A6FF"/>
+  <text x="22" y="40" class="n">wzgram</text>
+  <text x="22" y="74" class="t">My Pyrogram fork. Telegram MTProto</text><text x="22" y="96" class="t">for users and bots.</text>
+  <circle cx="27" cy="127" r="5" fill="#3572A5"/>
+  <text x="38" y="131" class="m">Python</text>
+  <text x="378" y="131" text-anchor="end" class="c">pip install wzgram</text>
+</svg>
